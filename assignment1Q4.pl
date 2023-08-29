@@ -1,4 +1,4 @@
-% Custom predicate for “is less than”
+% Custom predicate for â€œis less thanâ€
 my_is_less_than(0, X) :- X \== 0.
 my_is_less_than(X, Y) :-
     X > 0, Y > 0,
@@ -6,7 +6,7 @@ my_is_less_than(X, Y) :-
     Y1 is Y - 1,
     my_is_less_than(X1, Y1).
 
-% Custom predicate for “is”
+% Custom predicate for â€œisâ€
 my_is(X, X).
 
 % Custom predicate for multiplication
