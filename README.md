@@ -4,7 +4,7 @@ This repository contains assignments focused on Artificial Intelligence, primari
 
 ## Dependencies
 SWI-Prolog
-Any text editor (e.g., VSCode, Sublime Text)
+Any text editor (e.g., VSCode)
 
 ## Features
 Logic Programming: Exercises on recursive procedures, list manipulation, and symbolic reasoning.
@@ -14,4 +14,4 @@ Search Algorithms: Implementations of algorithms like depth-first search (DFS) a
 ## Usage
 Clone this repository to your local machine.
 Navigate to the project directory.
-Open Prolog files (.pl) in your text edi
+Open Prolog files (.pl) in your text editor
